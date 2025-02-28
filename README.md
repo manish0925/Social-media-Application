@@ -18,11 +18,11 @@ Real-time updates using AJAX (optional)
 
 🛠️ Technologies Used
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, bootstrap5
 
 Backend: Python, Django
 
-Database: SQLite3 (or any preferred DBMS)
+Database: SQLite3 
 
 Virtual Environment: Python venv
 
@@ -30,7 +30,7 @@ Virtual Environment: Python venv
 
 Clone the repository:
 
-git clone https://github.com/yourusername/social_media_feed.git
+git clone https://github.com/manish0925/social_media_feed.git
 cd social_media_feed
 
 Create a virtual environment:
